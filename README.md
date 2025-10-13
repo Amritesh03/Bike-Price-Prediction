@@ -67,7 +67,9 @@ The app will start running at:
 
 #### Response:
 {
+
   "predicted_price": 75200.45
+  
 }
 
 ### 🧾 Requirements
