@@ -14,16 +14,18 @@ The model (bike_price_pipeline.pkl) is a pre-trained machine learning pipeline b
 It uses regression algorithms on processed bike data to predict the logarithm of the price, which is then exponentiated back to get the real price.
 
 ### 📂 Project Structure
-.
 ├── app.py                    # Flask app entry point
+
 ├── bike_price_pipeline.pkl   # Pre-trained ML model
+
 ├── requirements.txt          # Dependencies list
+
 └── templates/
     └── index.html            # Frontend (to be added if not present)
 
 ### ⚙️ Installation & Setup
 #### 1️⃣ Clone the repository
-git clone https://github.com/yourusername/bike-price-prediction.git
+git clone https://github.com/Amritesh03/bike-price-prediction.git
 cd bike-price-prediction
 
 #### 2️⃣ Create a virtual environment
