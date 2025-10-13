@@ -21,6 +21,7 @@ It uses regression algorithms on processed bike data to predict the logarithm of
 ├── requirements.txt          # Dependencies list
 
 └── templates/
+
     └── index.html            # Frontend (to be added if not present)
 
 ### ⚙️ Installation & Setup
@@ -49,12 +50,19 @@ The app will start running at:
 
 {
   "mileage_k": 25000,
+  
   "service_count": 3,
+  
   "engine_size": 150,
+  
   "engine_power": 13.5,
+  
   "brand": "Yamaha",
+  
   "fuel_type": "Petrol",
+  
   "bike_type": "Sports"
+  
 }
 
 #### Response:
@@ -65,13 +73,13 @@ The app will start running at:
 ### 🧾 Requirements
 
 All dependencies are listed in requirements.txt
-flask
-flask_cors
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
+- flask
+- flask_cors
+- pandas
+- numpy
+- seaborn
+- matplotlib
+- scikit-learn
 
 ### 🌐 Deployment
 
