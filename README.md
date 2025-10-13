@@ -102,7 +102,7 @@ PORT=5000
 - Enable file-based data prediction (CSV upload)
 
 ### 👨‍💻 Author
-**Amritesh Dubey**
+**Amritesh Kumar Dwivedi**
 
 📧 dwivediamritesh37@gmail.com
 
