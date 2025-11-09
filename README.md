@@ -22,7 +22,7 @@ It uses regression algorithms on processed bike data to predict the logarithm of
 
 └── templates/
 
-    └── index.html            # Frontend (to be added if not present)
+    └── index.html            # Frontend
 
 ### ⚙️ Installation & Setup
 #### 1️⃣ Clone the repository
@@ -94,12 +94,6 @@ You can deploy this Flask app easily on:
 
 Make sure to set:
 PORT=5000
-
-### ✨ Future Enhancements
-- Add a frontend UI (HTML form for user inputs)
-- Add brand & type dropdowns dynamically
-- Integrate model retraining pipeline
-- Enable file-based data prediction (CSV upload)
 
 ### 👨‍💻 Author
 **Amritesh Kumar Dwivedi**
